@@ -1,0 +1,14 @@
+
+.listItem {
+    list-style: square;
+    display: inline;
+    padding: 10px;
+    border: 1px solid black;
+    margin-left: 10px;
+    background: pink;
+}
+
+.listItem:hover {
+    background: lightblue;
+    cursor: pointer;
+}
