@@ -396,3 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+06.Workshop-Components/Resources/server/server.js
+06.Workshop-Components/Demo/04.ReactJS-Components-Workshop1/client/
